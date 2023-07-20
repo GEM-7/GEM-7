@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GEM-7
 - 👀 I’m interested in Software Development and Cyber-Security
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on any project that gives more insight to interests.
 - 📫 How to reach me ... gohemmanuel7@gmail.com
 
